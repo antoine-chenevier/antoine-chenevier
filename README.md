@@ -28,6 +28,5 @@ I'm on a journey of continuous learning and exploration in the field of computer
 
 ### Check out my GitHub Activity:
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=antoine-chenevier&bg_color=232323&color=a8c6fe&line=74a7fe&point=e392fe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antoine-chenevier)](https://github.com/ashutosh00710/github-readme-activity-graph)
 Feel free to explore my repositories and projects! If you have any questions, suggestions, or just want to connect, I'd be happy to hear from you. 😊
