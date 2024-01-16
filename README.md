@@ -1,16 +1,21 @@
+---
+runme:
+  id: 01HM9EMY1GWAS10N89M8914B4T
+  version: v2.2
+---
+
 ## Welcome to my GitHub profile! 👋
 
 I'm Antoine Chenevier, a passionate computer science student currently pursuing my engineering degree at ESIREM.
 
 - 🌱 I’m currently immersed in the world of **Python** and exploring the fascinating realm of **Machine Learning**.
-
 - 📫 Feel free to reach out: [antoine.chenevier01@gmail.com](mailto:antoine.chenevier01@gmail.com)
 
 ### About Me:
 
 I'm on a journey of continuous learning and exploration in the field of computer science. Here are some aspects of my technical toolbox:
 
-### Languages and Tools: 
+### Languages and Tools:
 
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -22,7 +27,6 @@ I'm on a journey of continuous learning and exploration in the field of computer
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
   <!-- Add other languages and tools here -->
 </p>
 
